@@ -1,3 +1,7 @@
 class Sample4{
+<<<<<<< HEAD
     System.out.println("sample4 script");
+=======
+    Sysout.out.println("This is feature branch");
+>>>>>>> feature1
 }
